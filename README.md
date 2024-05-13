@@ -1,5 +1,5 @@
 # Bc-Thesis XRS : public
-These are the results of my bachelor thesis :: X-ray Spectroscopy of the Cosmic Web, and the code used within.
+These are the results of my bachelor thesis :: X-ray Spectroscopy of the Cosmic Web :: , and the code used within.
 
 - The full thesis can be found at the Masaryk University webpage:
 
