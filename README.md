@@ -3,7 +3,7 @@ These are the results of my bachelor thesis :: X-ray Spectroscopy of the Cosmic 
 
 - The full thesis can be found at the Masaryk University webpage:
 
-to be added :-)
+https://is.muni.cz/th/brpqa/
 
 - Note that the SOXS library used to simulate the X-ray spectra was edited and the instruments within it may not match the instruments used by default by SOXS.
 - The TNG100-3 simulation volume was used as a base for our simulations. It can be downloaded at IllustrisTNG website:
